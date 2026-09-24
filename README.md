@@ -21,7 +21,7 @@ Most JSON diff tools either output unstructured text or hide the parts that matt
 ## Installation
 
 ```bash
-pip install compare-json
+pip install compare-json-py
 ```
 
 ## Quick Start
